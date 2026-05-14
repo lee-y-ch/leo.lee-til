@@ -3,6 +3,7 @@
 ## 오늘 내가 배운 것들 (Today I Learned)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100-hours-a-week%2Fleo.lee-til&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/lee-ych.svg)](https://wakatime.com/@lee-ych)
 
 ---
 
