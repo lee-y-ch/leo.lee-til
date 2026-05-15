@@ -2,7 +2,7 @@
 
 ## 오늘 내가 배운 것들 (Today I Learned)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100-hours-a-week%2Fleo.lee-til&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/lee-y-ch/leo.lee-til.svg)](https://hits.sh/github.com/lee-y-ch/leo.lee-til/)
 [![wakatime](https://wakatime.com/badge/user/4aefaabb-d5f0-45c3-b446-010e3e53e216.svg)](https://wakatime.com/@4aefaabb-d5f0-45c3-b446-010e3e53e216)
 
 ---
