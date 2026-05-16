@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'May/**.md'
+      - 'Jun/**.md'
+      - 'Jul/**.md'
+      - 'Aug/**.md'
+      - 'Sep/**.md'
+      - 'Oct/**.md'
+      - 'Nov/**.md'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with new TIL entries
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs: auto-update README with new TIL entries"
+          git push
