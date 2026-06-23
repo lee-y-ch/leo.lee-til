@@ -39,7 +39,7 @@
 
 ### [6월 넷째주, 7주차] : 
 
-- [x] [26.06.23](Jun/2026-06-23.md) - [ AWS VPC, IAM, Security Group, Route 53, EC2 이해 ]
+- [x] [26.06.22](Jun/2026-06-22.md) - [ AWS VPC, IAM, Security Group, Route 53, EC2 이해 ]
 
 ### [6월 다섯째주, 8주차] : 
 
