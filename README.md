@@ -39,6 +39,7 @@
 
 ### [6월 넷째주, 7주차] : 
 
+- [x] [26.06.25](Jun/2026-06-25.md) - [ Lambda, API Gateway, CloudWatch와 Observability 이해 ]
 - [x] [26.06.24](Jun/2026-06-24.md) - [ ElastiCache, ELB, CloudFront 이해 ]
 - [x] [26.06.23](Jun/2026-06-23.md) - [ AWS EFS, S3, RDS 스토리지와 데이터베이스 운영 이해 ]
 - [x] [26.06.22](Jun/2026-06-22.md) - [ AWS VPC, IAM, Security Group, Route 53, EC2 이해 ]
